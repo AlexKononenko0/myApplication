@@ -1,2 +1,5 @@
-package kononenko.nosqlproject;public class Main {
+package kononenko.nosqlproject;
+
+
+public class Main {
 }
